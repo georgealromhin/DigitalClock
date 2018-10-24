@@ -1,0 +1,12 @@
+C:\Users\George\source\repos\DesktopClock\DesktopClock\bin\Debug\DesktopClock.exe.config
+C:\Users\George\source\repos\DesktopClock\DesktopClock\bin\Debug\DesktopClock.exe
+C:\Users\George\source\repos\DesktopClock\DesktopClock\bin\Debug\DesktopClock.pdb
+C:\Users\George\source\repos\DesktopClock\DesktopClock\obj\Debug\DesktopClock.csprojAssemblyReference.cache
+C:\Users\George\source\repos\DesktopClock\DesktopClock\obj\Debug\DesktopClock.Form1.resources
+C:\Users\George\source\repos\DesktopClock\DesktopClock\obj\Debug\DesktopClock.Properties.Resources.resources
+C:\Users\George\source\repos\DesktopClock\DesktopClock\obj\Debug\DesktopClock.csproj.GenerateResource.cache
+C:\Users\George\source\repos\DesktopClock\DesktopClock\obj\Debug\DesktopClock.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\DesktopClock\DesktopClock\obj\Debug\DesktopClock.exe
+C:\Users\George\source\repos\DesktopClock\DesktopClock\obj\Debug\DesktopClock.pdb
+C:\Users\George\source\repos\DesktopClock\DesktopClock\bin\Debug\digital-7.ttf
+C:\Users\George\source\repos\DesktopClock\DesktopClock\obj\Debug\DesktopClock.SettingsForm.resources
